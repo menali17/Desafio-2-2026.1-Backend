@@ -1,6 +1,6 @@
 # Desafio DETRAN - Banco de Dados
 
-Projeto desenvolvido para a modelagem e implementação de um banco de dados relacional para o monitoramento de infrações de trânsito do DETRAN. Como parte do segundo desafio de capacitação da **EngNet**
+Projeto desenvolvido para a modelagem e implementação de um banco de dados relacional para o monitoramento de infrações de trânsito do DETRAN, como parte do segundo desafio de capacitação da **EngNet**
 
 ## Descrição
 
